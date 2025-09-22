@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
     <Folder Include="Helpers.VG\" />
     <Folder Include="Services\" />
   </ItemGroup>
