@@ -3,7 +3,7 @@ using Infrastructure.Interfaces;
 
 namespace Infrastructure.Helpers.VG;
 
-public class IdGenerator : IUniqueIdGenerator
+public class UniqueIdGenerator : IUniqueIdGenerator
 {
     public static string Generate()
     {
